@@ -1,0 +1,48 @@
+@font-face {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 300;
+  src: url("signup/signupform/fonts/poppins/poppins-v5-latin-300.eot");
+}
+
+body {
+  font-family: Poppins;
+}
+
+a {
+  color: #00b7ff;
+}
+
+#signupform {
+  margin: 0% 30% 0% 30%;
+}
+
+.header {
+  width: 100%;
+  padding: 10px;
+  height: 100%;
+  background-color: #000066;
+  color: white;
+  text-align: center;
+}
+
+#explain {
+  margin-left: 30px;
+  margin-right: 50px;
+}
+.jumbotron {
+  height: 850px;
+  background-color: #ccffff;
+}
+
+#testbutton,
+#testbuttonlogin {
+  margin-left: 30px;
+  width: 20%;
+}
+
+#project-heading {
+  margin-top: 100px;
+  margin-left: 30px;
+  color: #007acc;
+}
